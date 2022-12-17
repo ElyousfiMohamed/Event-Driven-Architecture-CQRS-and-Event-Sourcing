@@ -8,15 +8,15 @@
         <td><a href="https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-jpa">Spring Data JPA</a></td>
         <td><a href="https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-data-rest">Spring Data REST</a></td>
         <td><a href="https://mvnrepository.com/artifact/mysql/mysql-connector-java">MySQL Driver</a></td>
-        <td><a href="https://mvnrepository.com/artifact/org.projectlombok/lombok">Lombok</a></td>
     </tr>
     <tr>
         <td><a href="https://mvnrepository.com/artifact/org.mapstruct/mapstruct">MapStruct</a></td>
         <td><a href="https://mvnrepository.com/artifact/org.axonframework/axon-spring-boot-starter">Axon Spring Boot Starter</a></td>
+        <td><a href="https://mvnrepository.com/artifact/org.projectlombok/lombok">Lombok</a></td>
    </tr>
 </table>
 <details>
-    <summary>📝 Partie 1 - Ecriture <a href="" target="_blank">[Code Source]</a></summary>
+    <summary>📝 Partie 1 - Ecriture <a href="https://github.com/ElyousfiMohamed/Event-Driven-Architecture-CQRS-and-Event-Sourcing/tree/master/compte-cqrs-es/src/main/java/com/example/comptecqrses" target="_blank">[Code Source]</a></summary>
     <p>
         <h4>Creation des commandes (CommonApi)</h4>
         <h5>- BaseCommand</h5>
@@ -80,7 +80,7 @@
     </p>
 </details>
 <details>
-    <summary>📝 Partie 2 - Lecture <a href="">[Code Source]</a></summary>
+    <summary>📝 Partie 2 - Lecture <a href="https://github.com/ElyousfiMohamed/Event-Driven-Architecture-CQRS-and-Event-Sourcing/tree/master/compte-cqrs-es/src/main/java/com/example/comptecqrses">[Code Source]</a></summary>
     <p>
         <h5>- Entity Account</h5>
         <img src="./Images/Screenshot_39.png" alt="Screenshot_39.png" width="700" style="border: 2px solid black;"/>
